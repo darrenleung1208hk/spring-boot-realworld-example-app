@@ -1,0 +1,1 @@
+insert into articles (id, slug, title, description, body, favorites_count) values (1, '/post-1', 'title', 'description', 'body', 0);
