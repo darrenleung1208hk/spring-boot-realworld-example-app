@@ -1,4 +1,4 @@
-package io.darren.realworld.example.app;
+package io.darren.realworldexampleapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

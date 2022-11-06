@@ -1,4 +1,4 @@
-package io.darren.realworld.example.app;
+package io.darren.realworldexampleapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

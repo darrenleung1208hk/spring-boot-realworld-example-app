@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'io.darren.realworld example app' is invalid and this project uses 'io.darren.realworld.example.app' instead.
+* The original package name 'io.darren.realworld-example-app' is invalid and this project uses 'io.darren.realworldexampleapp' instead.
 
 # Getting Started
 
