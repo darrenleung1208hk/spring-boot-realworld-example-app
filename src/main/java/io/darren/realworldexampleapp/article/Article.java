@@ -120,4 +120,8 @@ public class Article {
     public void setUpdatedAt(Date updatedAt) {
         this.updatedAt = updatedAt;
     }
+
+    public String toString() {
+        return String.format("User [id=%s, title=%s]", id, title);
+    }
 }
